@@ -1,0 +1,11 @@
+AI description: in each turn of connect 4, there are a maximum of 7
+possible places to make your turn. Because of this limited number of options,
+we decided to check all of the options, and grade them according to their
+efficiency. we added points for adding a disc in a central place, and for
+creating sequences of disks, or stopping the opponent from creating sequences.
+likewise, we deducted points for enabling our opponent to create sequences.
+thus, we found the best possible option for adding a disk each turn, and played
+that way. We decided on a defensive approach, giving emphasis on blocking our
+opponent as much as we can of creating sequences of three disks, and meanwhile
+creating as many sequences of our own as we can, and that way trying to ensure
+a win.

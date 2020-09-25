@@ -1,0 +1,4 @@
+([('four_in_a_row',
+   '/Users/omerhagage/Desktop/מדמ״ח/year1/סמסטר-א/מבוא למדעי המחשב '
+   '67101/ex12/dist/four_in_a_row',
+   'EXECUTABLE')],)
